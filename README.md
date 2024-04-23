@@ -1,6 +1,7 @@
 <div align="center">
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=SY-Han&count_private=true&theme=graywhite)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=SY-Han&count_private=trueshow_icons=true&theme=graywhite)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SY-Han&count_private=true&layout=compact&theme=graywhite)
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
