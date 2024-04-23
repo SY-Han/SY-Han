@@ -1,6 +1,6 @@
 <div align="center">
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=SY-Han&count_private=trueshow_icons=true&theme=graywhite)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=SY-Han&count_private=true&show_icons=true&theme=graywhite)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SY-Han&count_private=true&layout=compact&theme=graywhite)
 
